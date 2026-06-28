@@ -1,5 +1,7 @@
 # Astra — AI Clinic Administrator
 
+**Product guide** — short walkthrough of the product with a brief demo: [video](https://drive.google.com/file/d/1VD_HT9vWw7HXQiQPcB5r5a0_yVWkiQPT/view?usp=sharing)
+
 Public-facing slice of a production system for aesthetic medicine clinics.  
 This repository is **intentionally limited**: it publishes a **demonstration notebook** and high-level architecture documentation. The runnable application — Telegram bot, worker, agent, tools, infrastructure wiring — lives in the **private codebase** that this demo depends on.
 
